@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Gi-z/Gi-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gi-z's github stats](https://github-readme-stats.vercel.app/api?username=Gi-z&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gi-z&count_private=true&theme=dark"/>
+
+- PhD Student at Robert Gordon University
+- Researching IoT sensor tech for the [FitHomes project](https://www.rgu.ac.uk/research/research-projects/projects/899-fitsense-fall-prediction-in-technology-enabled-fit-homes)
+- Actively maintaining [CSIKit](https://github.com/Gi-z/CSIKit)
+- Working in Python, Javascript, or whatever technology fits the task
+- Should document my work more often
