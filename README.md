@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - PhD Student at Robert Gordon University
 - IoT sensor tech for the [FitHomes project](https://www.rgu.ac.uk/research/research-projects/projects/899-fitsense-fall-prediction-in-technology-enabled-fit-homes)
-- Actively maintaining [CSIKit](https://github.com/Gi-z/CSIKit)
+- Maintaining [CSIKit](https://github.com/Gi-z/CSIKit)
 - Working in Python, Javascript, and more!
 - Should document my work more often
