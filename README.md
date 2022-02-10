@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Gi-z&count_private=true&theme=dark"/>
 
 - PhD Student at Robert Gordon University
-- Researching IoT sensor tech for the [FitHomes project](https://www.rgu.ac.uk/research/research-projects/projects/899-fitsense-fall-prediction-in-technology-enabled-fit-homes)
+- IoT sensor tech for the [FitHomes project](https://www.rgu.ac.uk/research/research-projects/projects/899-fitsense-fall-prediction-in-technology-enabled-fit-homes)
 - Actively maintaining [CSIKit](https://github.com/Gi-z/CSIKit)
-- Working in Python, Javascript, or whichever technology fits the task
+- Working in Python, Javascript, and more!
 - Should document my work more often
