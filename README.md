@@ -1,22 +1,9 @@
-<!--
-**Gi-z/Gi-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer in Denver, CO. I build sensing systems end to end: custom ESP32 boards and C firmware, Rust and Python ingest services, and the cloud platforms and models on top.
 
-Here are some ideas to get you started:
+- Technical lead on [FitHomes](https://www.rgu.ac.uk/research/research-projects/projects/899-fitsense-fall-prediction-in-technology-enabled-fit-homes), a smart-home health monitoring platform running in 70+ homes in Scotland
+- Creator and maintainer of [CSIKit](https://github.com/Gi-z/CSIKit), a Python library for Wi-Fi Channel State Information (300+ stars, 100k+ downloads)
+- Ph.D. in sensor engineering, with [publications on Google Scholar](https://scholar.google.com/citations?user=b0KECysAAAAJ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working in:** C, Rust, Python, ESP-IDF/FreeRTOS, AWS, Docker
 
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gi-z&count_private=true&theme=dark"/>-->
-
-- PhD at Robert Gordon University
-- IoT sensor tech for the [FitHomes project](https://www.rgu.ac.uk/research/research-projects/projects/899-fitsense-fall-prediction-in-technology-enabled-fit-homes)
-- Maintaining [CSIKit](https://github.com/Gi-z/CSIKit)
-- Working in Python, Javascript, and more!
-- Should document my work more often
+**Contact:** [LinkedIn](https://www.linkedin.com/in/glenn-r-forbes/) · gizmoloon@gmail.com
